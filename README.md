@@ -9,6 +9,13 @@ odkazy na elektronické knihovny a knihy
 - [Kohoutí kříž](http://kohoutikriz.org/) - především šumavská německá literatura
 - [Wikizdroje](http://cs.wikisource.org) - svobodná knihovna děl nevázaných autorským právem nebo zveřejněných pod svobodnou licencí, včetně krásné a odborné literatury a historických a politických dokumentů. 
 - [Wikiknihy](http://cs.wikibooks.org)
+- [Root.cz](http://www.root.cz/knihy/)
+- projekt [Osvobození knih](http://www.pirati.cz/knihy) Pirátské strany
+
+## Slovenské
+
+- [Slovenská národní knihovna](http://www.snk.sk/sk/katalogy/hlavne-katalogy/katalog-digitalna-kniznica.html) - digitální katalog
+- [Greenie knižnica](http://knihy.rs-design.sk/)
 
 ## Zahraniční
 
@@ -23,3 +30,7 @@ odkazy na elektronické knihovny a knihy
 ## Neknižní zajímavé archivy
 
 - [Old maps online](http://www.oldmapsonline.org/) - staré mapy
+
+## Jiné
+
+- článek [Knihovníci](http://nebezpecnakniha.blog.root.cz/2013/07/26/knihovnici/) z připravované knihy [Nebezpečná kniha](http://eldar.cz/kniha/) 
