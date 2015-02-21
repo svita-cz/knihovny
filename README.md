@@ -11,6 +11,7 @@ odkazy na elektronické knihovny a knihy
 - [Wikiknihy](http://cs.wikibooks.org)
 - [Root.cz](http://www.root.cz/knihy/)
 - projekt [Osvobození knih](http://www.pirati.cz/knihy) Pirátské strany
+- [Anarchistická knihovna](http://www.jaime.cz/node/2)
 
 ## Slovenské
 
