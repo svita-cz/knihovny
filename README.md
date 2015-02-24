@@ -33,6 +33,10 @@ odkazy na elektronické knihovny a knihy
 
 - [Old maps online](http://www.oldmapsonline.org/) - staré mapy
 
+## Bez možnosti čtení
+
+- [Databáze vydaných titulů](http://www.sckn.cz/ceskeknihy/)
+
 ## Jiné
 
 - článek [Knihovníci](http://nebezpecnakniha.blog.root.cz/2013/07/26/knihovnici/) z připravované knihy [Nebezpečná kniha](http://eldar.cz/kniha/) 
