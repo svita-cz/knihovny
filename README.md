@@ -13,6 +13,7 @@ odkazy na elektronické knihovny a knihy
 - projekt [Osvobození knih](http://www.pirati.cz/knihy) Pirátské strany
 - [Anarchistická knihovna](http://www.jaime.cz/node/2)
 - [eknihy.knihovna.cz/](http://eknihy.knihovna.cz/)
+- [knihovnicka.mysteria.cz](http://knihovnicka.mysteria.cz/)
 
 ## Slovenské
 
