@@ -12,6 +12,7 @@
 
 - [libreprojects.net](http://libreprojects.net) - rozcestník volně dostupných zdrojů
 - [unsplash](https://unsplash.com/) - public domain obrázky
+- [Dublin Core](http://webserver.ics.muni.cz/dublin_core/) - česká verze rozšířeného slovníku metadat
 
 ### Fonty
 
