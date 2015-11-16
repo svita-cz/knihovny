@@ -14,6 +14,7 @@ odkazy na elektronické knihovny a knihy
 - [Anarchistická knihovna](http://www.jaime.cz/node/2)
 - [eknihy.knihovna.cz/](http://eknihy.knihovna.cz/)
 - [knihovnicka.mysteria.cz](http://knihovnicka.mysteria.cz/)
+- [Pod okapem](http://www.podokapem.cz/)
 
 ## Slovenské
 
