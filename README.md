@@ -15,6 +15,7 @@ odkazy na elektronické knihovny a knihy
 - [eknihy.knihovna.cz/](http://eknihy.knihovna.cz/)
 - [knihovnicka.mysteria.cz](http://knihovnicka.mysteria.cz/)
 - [Pod okapem](http://www.podokapem.cz/)
+- [Publi.cz](https://publi.cz/knihovny/)
 
 ## Slovenské
 
