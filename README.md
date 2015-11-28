@@ -28,7 +28,7 @@ odkazy na elektronické knihovny a knihy
 - [Library of Congress](http://www.loc.gov)
 - [Project Gutenberg](https://www.gutenberg.org/)
 - [textfiles.com](http://textfiles.com/)
-- [Library Genesis](http://libgen.org/)
+- [Library Genesis](http://libgen.io)
 - [lib.ru](http://lib.ru/)
 - [arxiv.org](http://arxiv.org/) - (převážně) fyzikální články
 
