@@ -31,6 +31,7 @@ odkazy na elektronické knihovny a knihy
 - [Library Genesis](http://libgen.io)
 - [lib.ru](http://lib.ru/)
 - [arxiv.org](http://arxiv.org/) - (převážně) fyzikální články
+- [Maďarská digitální knihovna](http://mek.oszk.hu/html/torteneteng.html)
 
 ## Neknižní zajímavé archivy
 
