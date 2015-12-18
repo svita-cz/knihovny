@@ -7,6 +7,9 @@
 
 - pro experty je možností použít TeX
 
+- [Book binder](http://www.quantumelephant.co.uk/bookbinder/bookbinder.html)
+- [JPDF tweak](http://jpdftweak.sourceforge.net/)
+
 
 ## Zdroje
 
