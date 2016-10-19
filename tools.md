@@ -25,3 +25,8 @@
 - [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
 - [Janusz Marian Nowacki](http://jmn.pl/en)
 - [Peter Weigel](http://www.peter-wiegel.de/) (CAT fonts)
+
+### Písmena, unicode a spol
+
+- [TypeIt](http://www.typeit.org)
+- [Shapecatcher](http://shapecatcher.com)
