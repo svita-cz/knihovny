@@ -11,11 +11,13 @@ odkazy na elektronické knihovny a knihy
 - [Wikiknihy](http://cs.wikibooks.org)
 - [Root.cz](http://www.root.cz/knihy/)
 - projekt [Osvobození knih](http://www.pirati.cz/knihy) Pirátské strany
-- [Anarchistická knihovna](http://www.jaime.cz/node/2)
+- [Anarchistická knihovna](http://www.jaime.cz/node/2) *mrtvé*
 - [eknihy.knihovna.cz/](http://eknihy.knihovna.cz/)
 - [knihovnicka.mysteria.cz](http://knihovnicka.mysteria.cz/)
 - [Pod okapem](http://www.podokapem.cz/)
 - [Publi.cz](https://publi.cz/knihovny/)
+- [heda 1970](http://uloz.to/soubory/heda1970/knihovna/) *zaheslované*
+- [pekelnice80](https://uloz.to/soubory/pekelnice80/knihovna)
 
 ## Slovenské
 
