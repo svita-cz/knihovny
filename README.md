@@ -3,7 +3,7 @@ odkazy na elektronické knihovny a knihy
 
 ## České
 
-- [Národní knihovna](http://www.nkp.cz/digitalni-knihovna)
+- [Národní knihovna](http://www.nkp.cz/digitalni-knihovna), provozuje též [Webarchiv.cz](http://webarchiv.cz/cs/katalog-stranek)
 - [Městská knihovna v Praze](http://www.mlp.cz/cz/projekty/e-knihovna/)
 - [Ústav pro českou literaturu AV ČR, v. v. i.](http://archiv.ucl.cas.cz/)  - Digitalizovaný archiv časopisů
 - [Kohoutí kříž](http://kohoutikriz.org/) - především šumavská německá literatura
