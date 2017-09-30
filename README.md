@@ -5,6 +5,7 @@ odkazy na elektronické knihovny a knihy
 
 - [Národní knihovna](http://www.nkp.cz/digitalni-knihovna), provozuje též [Webarchiv.cz](http://webarchiv.cz/cs/katalog-stranek)
 - [Městská knihovna v Praze](http://www.mlp.cz/cz/projekty/e-knihovna/)
+- [Špalíček](http://www.spalicek.net/) - Digitální knihovna kramářských tisků
 - [Ústav pro českou literaturu AV ČR, v. v. i.](http://archiv.ucl.cas.cz/)  - Digitalizovaný archiv časopisů
 - [Kohoutí kříž](http://kohoutikriz.org/) - především šumavská německá literatura
 - [Wikizdroje](http://cs.wikisource.org) - svobodná knihovna děl nevázaných autorským právem nebo zveřejněných pod svobodnou licencí, včetně krásné a odborné literatury a historických a politických dokumentů. 
