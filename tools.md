@@ -11,6 +11,10 @@
 - [JPDF tweak](http://jpdftweak.sourceforge.net/)
 - [How can I fix/repair a corrupted PDF file?](http://superuser.com/questions/278562/how-can-i-fix-repair-a-corrupted-pdf-file)
 
+## Grafické programy
+
+- [Flag designer](http://flag-designer.appspot.com/)
+- [Gravit](https://gravit.io/)
 
 ## Zdroje
 
@@ -31,3 +35,4 @@
 
 - [TypeIt](http://www.typeit.org)
 - [Shapecatcher](http://shapecatcher.com)
+- [EMW3](https://emw3.com/)
