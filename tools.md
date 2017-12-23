@@ -21,6 +21,8 @@
 - [libreprojects.net](http://libreprojects.net) - rozcestník volně dostupných zdrojů
 - [unsplash](https://unsplash.com/) - public domain obrázky
 - [flickr Britské knihovny](https://www.flickr.com/photos/britishlibrary/albums/with/72157638544764936) - public domain obrázky
+- [digitální sbírka Národní galerie v Praze](http://sbirky.ngprague.cz/)
+- [Public domain review](http://publicdomainreview.org/)
 - [Dublin Core](http://webserver.ics.muni.cz/dublin_core/) - česká verze rozšířeného slovníku metadat
 - nástroje na [citace](http://www.citace.com/)
 
