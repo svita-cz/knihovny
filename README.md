@@ -11,7 +11,7 @@ odkazy na elektronické knihovny a knihy
 - [Wikizdroje](http://cs.wikisource.org) - svobodná knihovna děl nevázaných autorským právem nebo zveřejněných pod svobodnou licencí, včetně krásné a odborné literatury a historických a politických dokumentů. 
 - [Wikiknihy](http://cs.wikibooks.org)
 - [Root.cz](http://www.root.cz/knihy/)
-- projekt [Osvobození knih](http://www.pirati.cz/knihy) Pirátské strany
+- projekt [Osvobození knih](http://www.pirati.cz/knihy) Pirátské strany + [Pirátská knihovna](https://wiki.pirati.cz/kci/knihovna)
 - [Anarchistická knihovna](http://www.jaime.cz/node/2) *mrtvé*
 - [eknihy.knihovna.cz/](http://eknihy.knihovna.cz/)
 - [knihovnicka.mysteria.cz](http://knihovnicka.mysteria.cz/)
