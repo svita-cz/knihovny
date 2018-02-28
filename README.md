@@ -19,6 +19,7 @@ odkazy na elektronické knihovny a knihy
 - [Publi.cz](https://publi.cz/knihovny/)
 - [heda 1970](http://uloz.to/soubory/heda1970/knihovna/) *zaheslované*
 - [pekelnice80](https://uloz.to/soubory/pekelnice80/knihovna)
+- [Lege artis na webu](http://lege.cz/) - publikace zdarma nalezenete pouze v [Kytlici](http://lege.cz/kytlice.htm)
 
 ## Slovenské
 
