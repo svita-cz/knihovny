@@ -8,7 +8,7 @@
 - pro experty je možností použít TeX
 
 - [Book binder](http://www.quantumelephant.co.uk/bookbinder/bookbinder.html)
-- [JPDF tweak](http://jpdftweak.sourceforge.net/)
+- [JPDF tweak](http://jpdftweak.sourceforge.net/) nebo [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)
 - [How can I fix/repair a corrupted PDF file?](http://superuser.com/questions/278562/how-can-i-fix-repair-a-corrupted-pdf-file)
 
 ## Grafické programy
