@@ -37,6 +37,7 @@ odkazy na elektronické knihovny a knihy
 - [arxiv.org](http://arxiv.org/) - (převážně) fyzikální články
 - [Maďarská digitální knihovna](http://mek.oszk.hu/html/torteneteng.html)
 - [Standard Ebooks](https://standardebooks.org/)
+- [Autarky library](https://edgeryders.eu/t/autarky-library-509-free-e-books/8791)
 
 ## Neknižní zajímavé archivy
 
